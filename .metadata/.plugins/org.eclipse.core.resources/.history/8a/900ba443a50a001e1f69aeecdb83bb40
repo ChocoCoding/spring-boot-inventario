@@ -1,0 +1,13 @@
+package com.bolsaideas.springboot.form.app.controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+@Controller
+public class FormController {
+
+	@GetMapping("form")
+	public String form(Model model) {
+		return "form";
+	}
+}

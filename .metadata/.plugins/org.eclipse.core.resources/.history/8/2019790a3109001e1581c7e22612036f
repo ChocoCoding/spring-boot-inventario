@@ -1,0 +1,5 @@
+package com.bolsaideas.springboot.web.app;
+
+public class TextosPropertiesConfig {
+
+}
