@@ -1,1 +1,1 @@
-# spring-boot-inventario
+# Inventory control application for a store with Spring Boot
